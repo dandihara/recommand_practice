@@ -1,1 +1,3 @@
-# recommand_practice
+# recommandation_practice
+
+#협업 필터링 이용 예시 => 넷플릭스 같은 컨텐츠 기반 추천(현재 선택 된 컨텐츠와 가장 유사도가 큰 값의 리스트를 정렬)
